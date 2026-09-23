@@ -16,34 +16,19 @@ Sou uma pessoa disciplinada, organizada, responsável e comprometida com meu des
 
 ### 🌐 Redes Sociais
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/joão-pedro-da-silva-gari-41909a323/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            width="35px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    <a href="https://www.instagram.com/jjg.0022/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            width="35px"
-            src="https://cdn.simpleicons.org/instagram/E4405F"
-        />
-    </a>
-    <a href="https://github.com/jo4ogari">
-        <img 
-            alt="GitHub" 
-            title="GitHub" 
-            width="35px"
-            src="https://cdn.simpleicons.org/github/181717"
-        />
-    </a>
-</p>
+<div> 
+  <a href="https://www.instagram.com/jjg.0022/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/joão-pedro-da-silva-gari-41909a323/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://github.com/jo4ogari" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ### 💻 Linguagens e Tecnologias
 
