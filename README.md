@@ -96,20 +96,15 @@ Sou uma pessoa disciplinada, organizada, responsável e comprometida com meu des
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jo4ogari&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=jo4ogari&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180"
   />
 
-<img 
- align="left" 
- alt="Tecnologias mais utilizadas" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ogari&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=8&cache_seconds=86400" 
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ogari&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=8"
+    height="180"
+  />
+</p>
 </p>
