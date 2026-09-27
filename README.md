@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/joao-gari-banner.png" alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
+  <img src="Imagem do ChatGPT 27 de set. de 2026, 20_35_56.png alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
 </div>
 
 <br />
