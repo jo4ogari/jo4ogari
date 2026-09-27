@@ -1,110 +1,54 @@
-## 👨🏻‍💻 João Gari
+<div align="center">
+  <img src="./assets/joao-gari-banner.png" alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
+</div>
 
-**`Estudante de Engenharia de Software | Desenvolvedor em formação`**
+<br />
 
-Me chamo João Gari e sou estudante de Engenharia de Software. Estou construindo minha carreira na área de tecnologia, com foco em desenvolvimento de software.
-
-Tenho conhecimentos em HTML, CSS, JavaScript e Java, além de fundamentos de lógica de programação, Git e GitHub, redes de computadores e infraestrutura de TI.
-
-Durante minha formação, busco desenvolver meus conhecimentos por meio de projetos práticos, colocando em prática o que aprendo nos estudos. Tenho desenvolvido projetos web e aplicações utilizando JavaScript, APIs e outras tecnologias voltadas ao desenvolvimento de software.
-
-Também participei de um projeto de extensão envolvendo automação e inteligência artificial para atendimento e vendas pelo WhatsApp, experiência que me permitiu aplicar tecnologia para solucionar uma necessidade real.
-
-Sou uma pessoa disciplinada, organizada, responsável e comprometida com meu desenvolvimento profissional. Atualmente, busco oportunidades para adquirir experiência na área de desenvolvimento de software e continuar evoluindo como profissional de tecnologia.
-
----
-
-### 🌐 Redes Sociais
-
-<div> 
-  <a href="https://www.instagram.com/jjg.0022/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-da-silva-gari-41909a323/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.linkedin.com/in/joão-pedro-da-silva-gari-41909a323/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/jjg.0022/">
+    <img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://github.com/jo4ogari" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=07101F" alt="E-mail" />
   </a>
 </div>
 
-### 💻 Linguagens e Tecnologias
+## Olá, eu sou o João 👋
 
-<img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação, construindo minha carreira por meio de estudos e projetos práticos.
 
-<img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+Tenho conhecimentos em desenvolvimento web, Java, lógica de programação, Git e GitHub, redes de computadores e infraestrutura de TI. Gosto de transformar o que aprendo em soluções funcionais e estou sempre buscando evoluir um passo de cada vez.
 
-<img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+- 🎓 Cursando Engenharia de Software
+- 💻 Desenvolvendo projetos web com JavaScript e APIs
+- ☕ Aprofundando meus conhecimentos em Java
+- 🤖 Experiência em projeto de extensão com automação e IA para atendimento e vendas via WhatsApp
+- 🎯 Em busca de oportunidades para crescer na área de desenvolvimento de software
 
-<img 
- align="left" 
- alt="Java"
- title="Java" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+## Tecnologias
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Git e GitHub" />
+</div>
 
-### 🛠️ Ferramentas
+## Áreas de interesse
 
-<img 
- align="left" 
- alt="Git" 
- title="Git"
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+```text
+Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência Artificial
+```
 
-<img 
- align="left" 
- alt="GitHub" 
- title="GitHub"
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+## Estatísticas do GitHub
 
-<br/>
-<br/>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jo4ogari&show_icons=true&hide_border=true&bg_color=070B1A&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&locale=pt-br" alt="Estatísticas de João Gari no GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ogari&layout=compact&hide_border=true&bg_color=070B1A&title_color=22D3EE&text_color=E5E7EB&locale=pt-br" alt="Linguagens mais utilizadas por João Gari" />
+</div>
 
-### 📊 Estatísticas
+<br />
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jo4ogari&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ogari&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=8"
-    height="180"
-  />
-</p>
-</p>
+<div align="center">
+  <sub>Construindo hoje as habilidades que vão criar as soluções de amanhã.</sub>
+</div>
