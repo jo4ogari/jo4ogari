@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Imagem do ChatGPT 27 de set. de 2026, 20_35_56.png alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
+  <img src="./assets/img1.png" alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
 </div>
 
 <br />
@@ -43,8 +43,7 @@ Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jo4ogari&show_icons=true&hide_border=true&bg_color=070B1A&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&locale=pt-br" alt="Estatísticas de João Gari no GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo4ogari&layout=compact&hide_border=true&bg_color=070B1A&title_color=22D3EE&text_color=E5E7EB&locale=pt-br" alt="Linguagens mais utilizadas por João Gari" />
+  <img src="./assets/img2.png" alt="Estatísticas de João Gari no GitHub" width="100%" />
 </div>
 
 <br />
@@ -52,3 +51,4 @@ Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência 
 <div align="center">
   <sub>Construindo hoje as habilidades que vão criar as soluções de amanhã.</sub>
 </div>
+
