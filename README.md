@@ -30,13 +30,13 @@ Tenho conhecimentos em desenvolvimento web, Java, lógica de programação, Git 
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, React, Git e GitHub" />
 </div>
 
 ## Áreas de interesse
 
 ```text
-Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência Artificial • React
+Desenvolvimento Web  •  Java  •  APIs  •  Automação  • React • Inteligência Artificial  
 ```
 
 <div align="center">
