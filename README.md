@@ -36,7 +36,7 @@ Tenho conhecimentos em desenvolvimento web, Java, lógica de programação, Git 
 ## Áreas de interesse
 
 ```text
-Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência Artificial
+Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência Artificial • React
 ```
 
 <div align="center">
