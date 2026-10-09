@@ -39,8 +39,6 @@ Tenho conhecimentos em desenvolvimento web, Java, lógica de programação, Git 
 Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência Artificial
 ```
 
-## Estatísticas do GitHub
-
 <div align="center">
  
 
