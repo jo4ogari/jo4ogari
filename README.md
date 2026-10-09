@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="/img1.png" alt="Banner de João Gari — Engenharia de Software e Desenvolvimento" width="100%" />
-</div>
+
 
 <br />
 
@@ -43,8 +42,7 @@ Desenvolvimento Web  •  Java  •  APIs  •  Automação  •  Inteligência 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="/img2.png" alt="Estatísticas de João Gari no GitHub" width="100%" />
-</div>
+ 
 
 <br />
 
